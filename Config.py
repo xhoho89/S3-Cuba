@@ -1,7 +1,7 @@
 class Config(object):
       def __init__(self):
-          self.BotToken     = '1875329756:AAFZnRbga6iWsaMHKSODagU2lBvA3eDvezg'
-          self.S3Token      = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjU1ODE0NTgsInVzZXJuYW1lIjoiNTM1OTYzNDI0NSIsInZlcnNpb24iOiIyMTgwOCJ9.gGLXlAyWlXG54SRtPLG5tvqAApDuoLMO2yJa3BLeJT0'
+          self.BotToken     = '5322858110:AAFoDoPmnRZDloh00oQFsoFvmWZin7Nv9C0'
+          self.S3Token      = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTIxMTU2MjUsInVzZXJuYW1lIjoiNTM1ODQ5ODU3OCIsInZlcnNpb24iOiIyMTgyMCJ9.PktBEszGWAFKc3l0UvQsHf9Ff1Q3D1IWtMfdWeyaDdw'
           self.ChunkSize    = 10
           self.ChunkFixed   = 150
           self.FileLimit    = 1024 * 1024 * 200
