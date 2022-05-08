@@ -9,7 +9,7 @@ class Config(object):
           self.ChunkedFileLimit = 1024 * 1024 * 1024
           self.InProcces = False
           self.BotChannel = '-1001432878672'
-          self.AdminUsers = ['Obysoftt']
+          self.AdminUsers = ['AleJefe']
           self.current_user_msg = ''
           self.current_chanel_msg = ''
           self.procesing = False
